@@ -1,0 +1,77 @@
+[
+  {
+    "question_dk": "Hvem bestemmer, hvem der skal danne regering efter et valg?",
+    "question_en": "Who decides who should form the government after an election?",
+    "options_dk": {
+      "A": "Dronningen.",
+      "B": "Folketinget.",
+      "C": "Domstolene."
+    },
+    "options_en": {
+      "A": "The Queen.",
+      "B": "The Parliament.",
+      "C": "The Courts."
+    },
+    "answer_dk": "B"
+  },
+  {
+    "question_dk": "Hvilken organisation blev Danmark medlem af i 1949?",
+    "question_en": "Which organization did Denmark join in 1949?",
+    "options_dk": {
+      "A": "FN.",
+      "B": "NATO.",
+      "C": "EU."
+    },
+    "options_en": {
+      "A": "UN.",
+      "B": "NATO.",
+      "C": "EU."
+    },
+    "answer_dk": "B"
+  },
+  {
+    "question_dk": "Hvem vælger en tillidsrepræsentant på en arbejdsplads?",
+    "question_en": "Who elects a union representative at a workplace?",
+    "options_dk": {
+      "A": "Medarbejderne.",
+      "B": "Medarbejderne og arbejdsgiveren i forening.",
+      "C": "Arbejdsgiveren."
+    },
+    "options_en": {
+      "A": "The employees.",
+      "B": "The employees and the employer together.",
+      "C": "The employer."
+    },
+    "answer_dk": "A"
+  },
+  {
+    "question_dk": "Hvornår er man ifølge loven myndig i Danmark?",
+    "question_en": "When is a person legally considered an adult in Denmark?",
+    "options_dk": {
+      "A": "Når man er 15 år.",
+      "B": "Når man er 18 år.",
+      "C": "Når man er 21 år."
+    },
+    "options_en": {
+      "A": "When you are 15 years old.",
+      "B": "When you are 18 years old.",
+      "C": "When you are 21 years old."
+    },
+    "answer_dk": "B"
+  },
+  {
+    "question_dk": "Hvad hedder farvandet mellem Jylland og Fyn?",
+    "question_en": "What is the name of the strait between Jutland and Funen?",
+    "options_dk": {
+      "A": "Øresund.",
+      "B": "Storebælt.",
+      "C": "Lillebælt."
+    },
+    "options_en": {
+      "A": "The Øresund.",
+      "B": "The Great Belt.",
+      "C": "The Little Belt."
+    },
+    "answer_dk": "C"
+  }
+]
