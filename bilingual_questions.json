@@ -1,416 +1,5 @@
 [
   {
-    "question_dk": "Skal man være dansk statsborger for at stemme til folketingsvalg?",
-    "options_dk": {
-      "A": "Ja",
-      "B": "Nej"
-    },
-    "answer_dk": "null",
-    "question_en": "Do you need to be a Danish citizen to vote in parliamentary elections?",
-    "options_en": {
-      "A": "Yes",
-      "B": "No"
-    },
-    "answer_en": "null",
-    "source": "Medborgerskabsprøven 2023"
-  },
-  {
-    "question_dk": "Hvilken organisation blev Danmark medlem af i 1945?",
-    "options_dk": {
-      "A": "FN",
-      "B": "WTO",
-      "C": "EU"
-    },
-    "answer_dk": "null",
-    "question_en": "Which organization did Denmark join in 1945?",
-    "options_en": {
-      "A": "UN",
-      "B": "WTO",
-      "C": "EU"
-    },
-    "answer_en": "null",
-    "source": "Medborgerskabsprøven 2023"
-  },
-  {
-    "question_dk": "Hvilken popgruppe udgav nummeret 'Barbie Girl' i 1990'erne?",
-    "options_dk": {
-      "A": "Gasolin",
-      "B": "Aqua",
-      "C": "Nik & Jay"
-    },
-    "answer_dk": "null",
-    "question_en": "Which pop group released the song 'Barbie Girl' in the 1990s?",
-    "options_en": {
-      "A": "Gasolin",
-      "B": "Aqua",
-      "C": "Nik & Jay"
-    },
-    "answer_en": "null",
-    "source": "Medborgerskabsprøven 2023"
-  },
-  {
-    "question_dk": "Hvad hedder Danmarks tredjestørste by?",
-    "options_dk": {
-      "A": "Esbjerg",
-      "B": "Aalborg",
-      "C": "Odense"
-    },
-    "answer_dk": "null",
-    "question_en": "What is Denmark's third largest city?",
-    "options_en": {
-      "A": "Esbjerg",
-      "B": "Aalborg",
-      "C": "Odense"
-    },
-    "answer_en": "null",
-    "source": "Medborgerskabsprøven 2023"
-  },
-  {
-    "question_dk": "Hvilke landsdele forbinder Lillebæltsbroen?",
-    "options_dk": {
-      "A": "Fyn og Sjælland",
-      "B": "Fyn og Langeland",
-      "C": "Fyn og Jylland"
-    },
-    "answer_dk": "null",
-    "question_en": "Which parts of Denmark does the Little Belt Bridge connect?",
-    "options_en": {
-      "A": "Funen and Zealand",
-      "B": "Funen and Langeland",
-      "C": "Funen and Jutland"
-    },
-    "answer_en": "null",
-    "source": "Medborgerskabsprøven 2023"
-  },
-  {
-    "question_dk": "Må en arbejdsgiver fyre en kvinde, fordi hun er gravid?",
-    "options_dk": {
-      "A": "Ja",
-      "B": "Nej"
-    },
-    "answer_dk": "null",
-    "question_en": "Can an employer fire a woman because she is pregnant?",
-    "options_en": {
-      "A": "Yes",
-      "B": "No"
-    },
-    "answer_en": "null",
-    "source": "Medborgerskabsprøven 2023"
-  },
-  {
-    "question_dk": "Hvilket parti fik flest stemmer ved folketingsvalget i 2022?",
-    "options_dk": {
-      "A": "Socialdemokratiet",
-      "B": "Dansk Folkeparti",
-      "C": "Venstre"
-    },
-    "answer_dk": "null",
-    "question_en": "Which party received the most votes in the 2022 parliamentary election?",
-    "options_en": {
-      "A": "Social Democrats",
-      "B": "Danish People's Party",
-      "C": "Liberal Party"
-    },
-    "answer_en": "null",
-    "source": "Medborgerskabsprøven 2023"
-  },
-  {
-    "question_dk": "Hvad er den højeste karakter på 7-trins-skalaen, som man bruger i det danske uddannelsessystem?",
-    "options_dk": {
-      "A": "7",
-      "B": "10",
-      "C": "12"
-    },
-    "answer_dk": "null",
-    "question_en": "What is the highest grade on the 7-point scale used in the Danish education system?",
-    "options_en": {
-      "A": "7",
-      "B": "10",
-      "C": "12"
-    },
-    "answer_en": "null",
-    "source": "Medborgerskabsprøven 2023"
-  },
-  {
-    "question_dk": "Skal der være en folkeafstemning, hvis den danske grundlov skal ændres?",
-    "options_dk": {
-      "A": "Ja",
-      "B": "Nej"
-    },
-    "answer_dk": "null",
-    "question_en": "Is a referendum required to change the Danish constitution?",
-    "options_en": {
-      "A": "Yes",
-      "B": "No"
-    },
-    "answer_en": "null",
-    "source": "Medborgerskabsprøven 2023"
-  },
-  {
-    "question_dk": "Hvilket af følgende områder har kommunerne ansvaret for?",
-    "options_dk": {
-      "A": "Børnehaver",
-      "B": "Sygehuse",
-      "C": "Politiet"
-    },
-    "answer_dk": "null",
-    "question_en": "Which of the following areas are municipalities responsible for?",
-    "options_en": {
-      "A": "Børnehaver",
-      "B": "Sygehuse",
-      "C": "Politiet"
-    },
-    "answer_en": "null",
-    "source": "Medborgerskabsprøven 2023"
-  },
-  {
-    "question_dk": "Hvad fejres hvert år den 5. juni?",
-    "options_dk": {
-      "A": "Kristi himmelfart",
-      "B": "Grundlovsdag",
-      "C": "Kvindernes internationale kampdag"
-    },
-    "answer_dk": "null",
-    "question_en": "What is celebrated every year on June 5th?",
-    "options_en": {
-      "A": "Ascension Day",
-      "B": "Constitution Day",
-      "C": "International Women's Day"
-    },
-    "answer_en": "null",
-    "source": "Medborgerskabsprøven 2023"
-  },
-  {
-    "question_dk": "Hvilket af følgende områder mistede Danmark i 1864?",
-    "options_dk": {
-      "A": "Norge",
-      "B": "Skåne",
-      "C": "Slesvig"
-    },
-    "answer_dk": "null",
-    "question_en": "Which of the following areas did Denmark lose in 1864?",
-    "options_en": {
-      "A": "Norway",
-      "B": "Scania",
-      "C": "Schleswig"
-    },
-    "answer_en": "null",
-    "source": "Medborgerskabsprøven 2023"
-  },
-  {
-    "question_dk": "Hvor mange medlemmer har Folketinget?",
-    "options_dk": {
-      "A": "87",
-      "B": "179",
-      "C": "265"
-    },
-    "answer_dk": "null",
-    "question_en": "How many members are there in the Danish Parliament?",
-    "options_en": {
-      "A": "87",
-      "B": "179",
-      "C": "265"
-    },
-    "answer_en": "null",
-    "source": "Medborgerskabsprøven 2023"
-  },
-  {
-    "question_dk": "Hvor mange år går børn normalt i folkeskolen?",
-    "options_dk": {
-      "A": "10 år",
-      "B": "12 år",
-      "C": "14 år"
-    },
-    "answer_dk": "null",
-    "question_en": "How many years do children usually attend public school in Denmark?",
-    "options_en": {
-      "A": "10 years",
-      "B": "12 years",
-      "C": "14 years"
-    },
-    "answer_en": "null",
-    "source": "Medborgerskabsprøven 2023"
-  },
-  {
-    "question_dk": "Hvortil kan man normalt anke en afgørelse fra byretten?",
-    "options_dk": {
-      "A": "Landsretten",
-      "B": "Højesteret"
-    },
-    "answer_dk": "null",
-    "question_en": "Where can a decision from the district court typically be appealed?",
-    "options_en": {
-      "A": "High Court",
-      "B": "Supreme Court"
-    },
-    "answer_en": "null",
-    "source": "Medborgerskabsprøven 2023"
-  },
-  {
-    "question_dk": "Er flertallet af Danmarks befolkning medlem af folkekirken?",
-    "options_dk": {
-      "A": "Ja",
-      "B": "Nej"
-    },
-    "answer_dk": "null",
-    "question_en": "Is the majority of Denmark's population a member of the Church of Denmark?",
-    "options_en": {
-      "A": "Yes",
-      "B": "No"
-    },
-    "answer_en": "null",
-    "source": "Medborgerskabsprøven 2023"
-  },
-  {
-    "question_dk": "Hvad fremstiller den danske virksomhed LEGO?",
-    "options_dk": {
-      "A": "Insulin",
-      "B": "Vindmøller",
-      "C": "Legetøj"
-    },
-    "answer_dk": "null",
-    "question_en": "What does the Danish company LEGO manufacture?",
-    "options_en": {
-      "A": "Insulin",
-      "B": "Wind turbines",
-      "C": "Toys"
-    },
-    "answer_en": "null",
-    "source": "Medborgerskabsprøven 2023"
-  },
-  {
-    "question_dk": "Hvilket år blev Danmark besat af tyske tropper?",
-    "options_dk": {
-      "A": "1935",
-      "B": "1940",
-      "C": "1945"
-    },
-    "answer_dk": "null",
-    "question_en": "In which year was Denmark occupied by German troops?",
-    "options_en": {
-      "A": "1935",
-      "B": "1940",
-      "C": "1945"
-    },
-    "answer_en": "null",
-    "source": "Medborgerskabsprøven 2023"
-  },
-  {
-    "question_dk": "Hvornår er man ifølge loven myndig i Danmark?",
-    "options_dk": {
-      "A": "Når man fylder 15 år",
-      "B": "Når man fylder 18 år",
-      "C": "Når man fylder 21 år"
-    },
-    "answer_dk": "null",
-    "question_en": "At what age is a person legally considered an adult in Denmark?",
-    "options_en": {
-      "A": "When you turn 15",
-      "B": "When you turn 18",
-      "C": "When you turn 21"
-    },
-    "answer_en": "null",
-    "source": "Medborgerskabsprøven 2023"
-  },
-  {
-    "question_dk": "Hvilket af følgende lande er ikke med i det danske rigsfællesskab?",
-    "options_dk": {
-      "A": "Færøerne",
-      "B": "Grønland",
-      "C": "Island"
-    },
-    "answer_dk": "null",
-    "question_en": "Which of the following countries is not part of the Danish Realm?",
-    "options_en": {
-      "A": "Faroe Islands",
-      "B": "Greenland",
-      "C": "Iceland"
-    },
-    "answer_en": "null",
-    "source": "Medborgerskabsprøven 2023"
-  },
-  {
-    "question_dk": "Hvor blev danske FN-soldater udsendt til i 1990’erne som en del af FN’s styrker?",
-    "options_dk": {
-      "A": "Libyen",
-      "B": "Afghanistan",
-      "C": "Bosnien"
-    },
-    "answer_dk": "null",
-    "question_en": "Where were Danish UN soldiers deployed in the 1990s as part of UN forces?",
-    "options_en": {
-      "A": "Libya",
-      "B": "Afghanistan",
-      "C": "Bosnia"
-    },
-    "answer_en": "null",
-    "source": "Medborgerskabsprøven 2023"
-  },
-  {
-    "question_dk": "Hvor mange regioner er der i Danmark?",
-    "options_dk": {
-      "A": "5",
-      "B": "15",
-      "C": "25"
-    },
-    "answer_dk": "null",
-    "question_en": "How many regions are there in Denmark?",
-    "options_en": {
-      "A": "5",
-      "B": "15",
-      "C": "25"
-    },
-    "answer_en": "null",
-    "source": "Medborgerskabsprøven 2023"
-  },
-  {
-    "question_dk": "Skal politiet normalt give tilladelse til, at man afholder en demonstration?",
-    "options_dk": {
-      "A": "Ja",
-      "B": "Nej"
-    },
-    "answer_dk": "null",
-    "question_en": "Does the police normally have to grant permission to hold a demonstration?",
-    "options_en": {
-      "A": "Yes",
-      "B": "No"
-    },
-    "answer_en": "null",
-    "source": "Medborgerskabsprøven 2023"
-  },
-  {
-    "question_dk": "Hvad var Yahya Hassan særligt kendt for?",
-    "options_dk": {
-      "A": "Han var skuespiller",
-      "B": "Han var fodboldspiller",
-      "C": "Han var digter"
-    },
-    "answer_dk": "null",
-    "question_en": "What was Yahya Hassan particularly known for?",
-    "options_en": {
-      "A": "He was an actor",
-      "B": "He was a football player",
-      "C": "He was a poet"
-    },
-    "answer_en": "null",
-    "source": "Medborgerskabsprøven 2023"
-  },
-  {
-    "question_dk": "I hvilken type institution går børn typisk, når de er fire år",
-    "options_dk": {
-      "A": "Vuggestue",
-      "B": "Børnehave"
-    },
-    "answer_dk": "null",
-    "question_en": "What type of institution do children typically attend when they are four years old?",
-    "options_en": {
-      "A": "Nursery",
-      "B": "Kindergarten"
-    },
-    "answer_en": "null",
-    "source": "Medborgerskabsprøven 2023"
-  },
-  {
     "question_dk": "Hvordan har antallet af landmænd i Danmark udviklet sig siden 1960?",
     "options_dk": {
       "A": "Antallet er steget",
@@ -751,23 +340,6 @@
     "source": "Medborgerskabsprøven 2024"
   },
   {
-    "question_dk": "Hvilket landområde mistede Danmark i 1658?",
-    "options_dk": {
-      "A": "Shetlands-øerne",
-      "B": "Slesvig",
-      "C": "Skåne"
-    },
-    "answer_dk": null,
-    "question_en": "Hvilket landområde mistede Danmark i 1658?",
-    "options_en": {
-      "A": "Shetlands-øerne",
-      "B": "Slesvig",
-      "C": "Skåne"
-    },
-    "answer_en": null,
-    "source": "Medborgerskabsprøven 2024"
-  },
-  {
     "question_dk": "Hvad er Susanne Bier og Thomas Vinterberg særligt kendte for?",
     "options_dk": {
       "A": "De er filminstruktører",
@@ -819,23 +391,6 @@
     "source": "Medborgerskabsprøven 2024"
   },
   {
-    "question_dk": "Hvor mange års undervisning skal børn i Danmark normalt have?",
-    "options_dk": {
-      "A": "Mindst 10 år",
-      "B": "Mindst 12 år",
-      "C": "Mindst 14 år"
-    },
-    "answer_dk": null,
-    "question_en": "Hvor mange års undervisning skal børn i Danmark normalt have?",
-    "options_en": {
-      "A": "Mindst 10 år",
-      "B": "Mindst 12 år",
-      "C": "Mindst 14 år"
-    },
-    "answer_en": null,
-    "source": "Medborgerskabsprøven 2024"
-  },
-  {
     "question_dk": "Er et flertal af Danmarks befolkning medlem af Folkekirken?",
     "options_dk": {
       "A": "Ja",
@@ -850,91 +405,6 @@
       "C": "Don't know"
     },
     "answer_en": "A",
-    "source": "Medborgerskabsprøven 2024"
-  },
-  {
-    "question_dk": "Hvor tit er der valg til kommunalbestyrelser og regionsråd?",
-    "options_dk": {
-      "A": "Hvert tredje år",
-      "B": "Hvert fjerde år",
-      "C": "Hvert femte år"
-    },
-    "answer_dk": null,
-    "question_en": "Hvor tit er der valg til kommunalbestyrelser og regionsråd?",
-    "options_en": {
-      "A": "Hvert tredje år",
-      "B": "Hvert fjerde år",
-      "C": "Hvert femte år"
-    },
-    "answer_en": null,
-    "source": "Medborgerskabsprøven 2024"
-  },
-  {
-    "question_dk": "Hvem er ikke med i det danske rigsfællesskab?",
-    "options_dk": {
-      "A": "Island",
-      "B": "Færøerne",
-      "C": "Grønland"
-    },
-    "answer_dk": null,
-    "question_en": "Hvem er ikke med i det danske rigsfællesskab?",
-    "options_en": {
-      "A": "Island",
-      "B": "Færøerne",
-      "C": "Grønland"
-    },
-    "answer_en": null,
-    "source": "Medborgerskabsprøven 2024"
-  },
-  {
-    "question_dk": "Hvem var Danmarks første kvindelige statsminister?",
-    "options_dk": {
-      "A": "Margrethe Vestager",
-      "B": "Mette Frederiksen",
-      "C": "Helle Thorning-Schmidt"
-    },
-    "answer_dk": null,
-    "question_en": "Hvem var Danmarks første kvindelige statsminister?",
-    "options_en": {
-      "A": "Margrethe Vestager",
-      "B": "Mette Frederiksen",
-      "C": "Helle Thorning-Schmidt"
-    },
-    "answer_en": null,
-    "source": "Medborgerskabsprøven 2024"
-  },
-  {
-    "question_dk": "Hvilken rettighed er beskyttet af grundloven?",
-    "options_dk": {
-      "A": "Retten til at bære våben",
-      "B": "Retten til at have et arbejde",
-      "C": "Retten til selv at vælge religion"
-    },
-    "answer_dk": null,
-    "question_en": "Hvilken rettighed er beskyttet af grundloven?",
-    "options_en": {
-      "A": "Retten til at bære våben",
-      "B": "Retten til at have et arbejde",
-      "C": "Retten til selv at vælge religion"
-    },
-    "answer_en": null,
-    "source": "Medborgerskabsprøven 2024"
-  },
-  {
-    "question_dk": "Hvad er moms?",
-    "options_dk": {
-      "A": "En skat man betaler af sin indkomst",
-      "B": "En afgift på blandt andet varer man køber i butikkerne",
-      "C": "Et gebyr man betaler for at kunne se DR's tv- og radiokanaler"
-    },
-    "answer_dk": "B",
-    "question_en": "What is VAT?",
-    "options_en": {
-      "A": "A tax paid on income",
-      "B": "A fee on goods purchased in stores",
-      "C": "A fee paid to access DR's TV and radio channels"
-    },
-    "answer_en": "B",
     "source": "Medborgerskabsprøven 2024"
   },
   {
@@ -1040,57 +510,6 @@
     "source": "Medborgerskabsprøven 2024"
   },
   {
-    "question_dk": "Hvilken rettighed er beskyttet af grundloven?",
-    "options_dk": {
-      "A": "Retten til at bære våben",
-      "B": "Retten til at have et arbejde",
-      "C": "Retten til selv at vælge religion"
-    },
-    "answer_dk": "C",
-    "question_en": "Which right is protected by the constitution?",
-    "options_en": {
-      "A": "The right to bear arms",
-      "B": "The right to have a job",
-      "C": "The right to choose one's religion"
-    },
-    "answer_en": "C",
-    "source": "Medborgerskabsprøven 2024"
-  },
-  {
-    "question_dk": "Hvem står for driften af de offentlige sygehuse?",
-    "options_dk": {
-      "A": "Kommunerne",
-      "B": "Regionerne",
-      "C": "Staten"
-    },
-    "answer_dk": "B",
-    "question_en": "Who is responsible for operating public hospitals?",
-    "options_en": {
-      "A": "The municipalities",
-      "B": "The regions",
-      "C": "The state"
-    },
-    "answer_en": "B",
-    "source": "Medborgerskabsprøven 2024"
-  },
-  {
-    "question_dk": "Hvor mange kommuner er der i Danmark?",
-    "options_dk": {
-      "A": "37",
-      "B": "98",
-      "C": "165"
-    },
-    "answer_dk": "B",
-    "question_en": "How many municipalities are there in Denmark?",
-    "options_en": {
-      "A": "37",
-      "B": "98",
-      "C": "165"
-    },
-    "answer_en": "B",
-    "source": "Medborgerskabsprøven 2024"
-  },
-  {
     "question_dk": "Hvad er Danmarks officielle sprog?",
     "options_dk": {
       "A": "Tysk",
@@ -1193,23 +612,6 @@
     "source": "Medborgerskabsprøven 2024"
   },
   {
-    "question_dk": "Hvad er Danmarks største ø?",
-    "options_dk": {
-      "A": "Fyn",
-      "B": "Sjælland",
-      "C": "Bornholm"
-    },
-    "answer_dk": "B",
-    "question_en": "What is Denmark's largest island?",
-    "options_en": {
-      "A": "Funen",
-      "B": "Zealand",
-      "C": "Bornholm"
-    },
-    "answer_en": "B",
-    "source": "Medborgerskabsprøven 2024"
-  },
-  {
     "question_dk": "Hvad er Danmarks hovedstad?",
     "options_dk": {
       "A": "Aarhus",
@@ -1278,23 +680,6 @@
     "source": "Medborgerskabsprøven 2024"
   },
   {
-    "question_dk": "Hvad er Danmarks officielle sprog?",
-    "options_dk": {
-      "A": "Engelsk",
-      "B": "Tysk",
-      "C": "Dansk"
-    },
-    "answer_dk": "C",
-    "question_en": "What is Denmark's official language?",
-    "options_en": {
-      "A": "English",
-      "B": "German",
-      "C": "Danish"
-    },
-    "answer_en": "C",
-    "source": "Medborgerskabsprøven 2024"
-  },
-  {
     "question_dk": "Hvilken valuta bruger man i Danmark?",
     "options_dk": {
       "A": "Euro",
@@ -1358,23 +743,6 @@
       "A": "A number to identify cars",
       "B": "A personal identification number",
       "C": "A number to pay taxes"
-    },
-    "answer_en": "B",
-    "source": "Medborgerskabsprøven 2024"
-  },
-  {
-    "question_dk": "Hvad er Danmarks største ø?",
-    "options_dk": {
-      "A": "Fyn",
-      "B": "Sjælland",
-      "C": "Bornholm"
-    },
-    "answer_dk": "B",
-    "question_en": "What is Denmark's largest island?",
-    "options_en": {
-      "A": "Funen",
-      "B": "Zealand",
-      "C": "Bornholm"
     },
     "answer_en": "B",
     "source": "Medborgerskabsprøven 2024"
@@ -1625,23 +993,6 @@
     "source": "Medborgerskabsprøven 2025"
   },
   {
-    "question_dk": "Fra hvilket land kom der særligt mange indvandrere til Danmark i slutningen af 1960’erne?",
-    "options_dk": {
-      "A": "Syrien",
-      "B": "Tyrkiet",
-      "C": "Rumænien"
-    },
-    "answer_dk": "B",
-    "question_en": "From which country did many immigrants come to Denmark in the late 1960s?",
-    "options_en": {
-      "A": "Syria",
-      "B": "Turkey",
-      "C": "Romania"
-    },
-    "answer_en": "B",
-    "source": "Medborgerskabsprøven 2025"
-  },
-  {
     "question_dk": "Hvilken daginstitution går børn normalt i, når de er fire år?",
     "options_dk": {
       "A": "Vuggestue",
@@ -1822,23 +1173,6 @@
       "C": "Ludvig Holberg"
     },
     "answer_en": "B",
-    "source": "Medborgerskabsprøven 2025"
-  },
-  {
-    "question_dk": "I hvilken måned fejres sankthans?",
-    "options_dk": {
-      "A": "I maj",
-      "B": "I juni",
-      "C": "I juli"
-    },
-    "answer_dk": null,
-    "question_en": "In which month is Midsummer (Sankthans) celebrated?",
-    "options_en": {
-      "A": "In May",
-      "B": "In June",
-      "C": "In July"
-    },
-    "answer_en": null,
     "source": "Medborgerskabsprøven 2025"
   },
   {
@@ -2057,21 +1391,6 @@
     "source": "Medborgerskabsprøven 2020"
   },
   {
-    "question_dk": "Hvem vælger en tillidsrepræsentant på en arbejdsplads?",
-    "options_dk": {
-      "A": "Arbejdsgiveren",
-      "B": "Medarbejderne"
-    },
-    "answer_dk": "B",
-    "question_en": "Who elects a union representative at a workplace?",
-    "options_en": {
-      "A": "The employer",
-      "B": "The employees"
-    },
-    "answer_en": "B",
-    "source": "Medborgerskabsprøven 2020"
-  },
-  {
     "question_dk": "Er det gratis at låne bøger på landets folkebiblioteker?",
     "options_dk": {
       "A": "Ja",
@@ -2223,23 +1542,6 @@
     "source": "Medborgerskabsprøven 2020"
   },
   {
-    "question_dk": "Hvilken valuta bruger man i Danmark?",
-    "options_dk": {
-      "A": "Euro",
-      "B": "Danske kroner",
-      "C": "Pund"
-    },
-    "answer_dk": "B",
-    "question_en": "What currency is used in Denmark?",
-    "options_en": {
-      "A": "Euro",
-      "B": "Danish kroner",
-      "C": "Pound"
-    },
-    "answer_en": "B",
-    "source": "Medborgerskabsprøven 2020"
-  },
-  {
     "question_dk": "Hvilken dansk forfatter skrev 'Den lille havfrue'?",
     "options_dk": {
       "A": "Karen Blixen",
@@ -2254,23 +1556,6 @@
       "C": "Søren Kierkegaard"
     },
     "answer_en": "B",
-    "source": "Medborgerskabsprøven 2020"
-  },
-  {
-    "question_dk": "Hvad er Danmarks officielle sprog?",
-    "options_dk": {
-      "A": "Engelsk",
-      "B": "Tysk",
-      "C": "Dansk"
-    },
-    "answer_dk": "C",
-    "question_en": "What is Denmark's official language?",
-    "options_en": {
-      "A": "English",
-      "B": "German",
-      "C": "Danish"
-    },
-    "answer_en": "C",
     "source": "Medborgerskabsprøven 2020"
   },
   {
@@ -2668,23 +1953,6 @@
     "source": "Medborgerskabsprøven 2022"
   },
   {
-    "question_dk": "Hvor mange kommuner er der i Danmark?",
-    "options_dk": {
-      "A": "18",
-      "B": "98",
-      "C": "178"
-    },
-    "answer_dk": "B",
-    "question_en": "How many municipalities are there in Denmark?",
-    "options_en": {
-      "A": "18",
-      "B": "98",
-      "C": "178"
-    },
-    "answer_en": "B",
-    "source": "Medborgerskabsprøven 2022"
-  },
-  {
     "question_dk": "Er det forbudt at slå børn i Danmark?",
     "options_dk": {
       "A": "Ja",
@@ -2712,23 +1980,6 @@
       "A": "40-50 percent",
       "B": "60-70 percent",
       "C": "80-90 percent"
-    },
-    "answer_en": "C",
-    "source": "Medborgerskabsprøven 2022"
-  },
-  {
-    "question_dk": "Hvor mange medlemmer har Folketinget?",
-    "options_dk": {
-      "A": "69",
-      "B": "129",
-      "C": "179"
-    },
-    "answer_dk": "C",
-    "question_en": "How many members are there in the Danish Parliament?",
-    "options_en": {
-      "A": "69",
-      "B": "129",
-      "C": "179"
     },
     "answer_en": "C",
     "source": "Medborgerskabsprøven 2022"
@@ -3035,38 +2286,6 @@
     "source": "Medborgerskabsprøven 2022"
   },
   {
-    "question_dk": "Hvilken rettighed er beskyttet af grundloven?",
-    "options_dk": {
-      "A": "Retten til bære våben",
-      "B": "Retten til at få børn",
-      "C": "Ytringsfrihed"
-    },
-    "answer_dk": "C",
-    "question_en": "Which right is protected by the constitution?",
-    "options_en": {
-      "A": "Right to bear arms",
-      "B": "Right to have children",
-      "C": "Freedom of speech"
-    },
-    "answer_en": "C",
-    "source": "Medborgerskabsprøven 2022"
-  },
-  {
-    "question_dk": "Hvilket land blev Danmark besat af den 9. april 1940?",
-    "options_dk": {
-      "A": "Frankrig",
-      "B": "Tyskland"
-    },
-    "answer_dk": "B",
-    "question_en": "Which country occupied Denmark on April 9, 1940?",
-    "options_en": {
-      "A": "France",
-      "B": "Germany"
-    },
-    "answer_en": "B",
-    "source": "Medborgerskabsprøven 2022"
-  },
-  {
     "question_dk": "Skal man være medlem af folkekirken for at blive begravet på en af folkekirkens kirkegårde?",
     "options_dk": {
       "A": "Ja",
@@ -3232,21 +2451,6 @@
     "source": "Medborgerskabsprøven 2022"
   },
   {
-    "question_dk": "Hvem er ikke med i det danske rigsfællesskab?",
-    "options_dk": {
-      "A": "Island",
-      "B": "Færøerne"
-    },
-    "answer_dk": "A",
-    "question_en": "Who is not part of the Danish Realm?",
-    "options_en": {
-      "A": "Iceland",
-      "B": "Faroe Islands"
-    },
-    "answer_en": "A",
-    "source": "Medborgerskabsprøven 2022"
-  },
-  {
     "question_dk": "Hvor mange års undervisning skal børn i Danmark mindst have?",
     "options_dk": {
       "A": "7 år",
@@ -3277,21 +2481,6 @@
     "source": "Medborgerskabsprøven 2022"
   },
   {
-    "question_dk": "Hvem er den øverste politiske leder af en kommune?",
-    "options_dk": {
-      "A": "En borgmester",
-      "B": "En minister"
-    },
-    "answer_dk": "A",
-    "question_en": "Who is the top political leader of a municipality?",
-    "options_en": {
-      "A": "A mayor",
-      "B": "A minister"
-    },
-    "answer_en": "A",
-    "source": "Medborgerskabsprøven 2022"
-  },
-  {
     "question_dk": "Hvilket område mistede Danmark blandt andet i 1864?",
     "options_dk": {
       "A": "Norge",
@@ -3305,23 +2494,124 @@
     },
     "answer_en": "B",
     "source": "Medborgerskabsprøven 2022"
+  }
+  {
+    "question_dk": "Hvilket landområde mistede Danmark i 1658?",
+    "options_dk": {
+      "A": "Shetlands-øerne",
+      "B": "Slesvig",
+      "C": "Skåne"
+    },
+    "answer_dk": "C",
+    "question_en": "Which territory did Denmark lose in 1658?",
+    "options_en": {
+      "A": "Shetlands-øerne",
+      "B": "Slesvig",
+      "C": "Skåne"
+    },
+    "answer_en": "C",
+    "source": "Medborgerskabsprøven 2024"
   },
   {
-    "question_dk": "",
-    "options_dk": {},
-    "answer_dk": "",
-    "question_en": "",
-    "options_en": {},
-    "answer_en": "",
-    "source": "Medborgerskabsprøven 2019"
+    "question_dk": "Hvor mange års undervisning skal børn i Danmark normalt have?",
+    "options_dk": {
+      "A": "Mindst 10 år",
+      "B": "Mindst 12 år",
+      "C": "Mindst 14 år"
+    },
+    "answer_dk": "A",
+    "question_en": "How many years of education do children in Denmark normally receive?",
+    "options_en": {
+      "A": "Mindst 10 år",
+      "B": "Mindst 12 år",
+      "C": "Mindst 14 år"
+    },
+    "answer_en": "A",
+    "source": "Medborgerskabsprøven 2024"
   },
   {
-    "question_dk": "",
-    "options_dk": {},
-    "answer_dk": "",
-    "question_en": "",
-    "options_en": {},
-    "answer_en": "",
-    "source": "Medborgerskabsprøven den 1. december 2016"
+    "question_dk": "Hvor tit er der valg til kommunalbestyrelser og regionsråd?",
+    "options_dk": {
+      "A": "Hvert tredje år",
+      "B": "Hvert fjerde år",
+      "C": "Hvert femte år"
+    },
+    "answer_dk": "B",
+    "question_en": "How often are elections held for municipal councils and regional councils?",
+    "options_en": {
+      "A": "Hvert tredje år",
+      "B": "Hvert fjerde år",
+      "C": "Hvert femte år"
+    },
+    "answer_en": "B",
+    "source": "Medborgerskabsprøven 2024"
+  },
+  {
+    "question_dk": "Hvem er ikke med i det danske rigsfællesskab?",
+    "options_dk": {
+      "A": "Island",
+      "B": "Færøerne",
+      "C": "Grønland"
+    },
+    "answer_dk": "A",
+    "question_en": "Who is not part of the Danish Realm?",
+    "options_en": {
+      "A": "Island",
+      "B": "Færøerne",
+      "C": "Grønland"
+    },
+    "answer_en": "A",
+    "source": "Medborgerskabsprøven 2024"
+  },
+  {
+    "question_dk": "Hvem var Danmarks første kvindelige statsminister?",
+    "options_dk": {
+      "A": "Margrethe Vestager",
+      "B": "Mette Frederiksen",
+      "C": "Helle Thorning-Schmidt"
+    },
+    "answer_dk": "C",
+    "question_en": "Who was Denmark's first female Prime Minister?",
+    "options_en": {
+      "A": "Margrethe Vestager",
+      "B": "Mette Frederiksen",
+      "C": "Helle Thorning-Schmidt"
+    },
+    "answer_en": "C",
+    "source": "Medborgerskabsprøven 2024"
+  },
+  {
+    "question_dk": "Hvilken rettighed er beskyttet af grundloven?",
+    "options_dk": {
+      "A": "Retten til at bære våben",
+      "B": "Retten til at have et arbejde",
+      "C": "Retten til selv at vælge religion"
+    },
+    "answer_dk": "C",
+    "question_en": "Which right is protected by the constitution?",
+    "options_en": {
+      "A": "Retten til at bære våben",
+      "B": "Retten til at have et arbejde",
+      "C": "Retten til selv at vælge religion"
+    },
+    "answer_en": "C",
+    "source": "Medborgerskabsprøven 2024"
+  },
+  {
+    "question_dk": "I hvilken måned fejres sankthans?",
+    "options_dk": {
+      "A": "I maj",
+      "B": "I juni",
+      "C": "I juli"
+    },
+    "answer_dk": "B",
+    "question_en": "In which month is Midsummer (Sankthans) celebrated?",
+    "options_en": {
+      "A": "In May",
+      "B": "In June",
+      "C": "In July"
+    },
+    "answer_en": "B",
+    "source": "Medborgerskabsprøven 2025"
   }
 ]
