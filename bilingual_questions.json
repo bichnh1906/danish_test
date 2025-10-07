@@ -799,21 +799,6 @@
     "source": "Medborgerskabsprøven 2024"
   },
   {
-    "question_dk": "Hvad bestemmer overenskomster på arbejdsmarkedet blandt andet?",
-    "options_dk": {
-      "A": "Skatter",
-      "B": "Arbejdstid"
-    },
-    "answer_dk": "C",
-    "question_en": "What do collective agreements on the labor market determine among other things?",
-    "options_en": {
-      "A": "Taxes",
-      "B": "Working hours"
-    },
-    "answer_en": "C",
-    "source": "Medborgerskabsprøven 2025"
-  },
-  {
     "question_dk": "Hvor mange ugers ferie har man normalt ret til som lønmodtager?",
     "options_dk": {
       "A": "1-2 uger om året",
@@ -990,21 +975,6 @@
       "B": "Supreme Court"
     },
     "answer_en": "B",
-    "source": "Medborgerskabsprøven 2025"
-  },
-  {
-    "question_dk": "Hvilken daginstitution går børn normalt i, når de er fire år?",
-    "options_dk": {
-      "A": "Vuggestue",
-      "B": "Børnehave"
-    },
-    "answer_dk": "C",
-    "question_en": "Which daycare institution do children usually attend at age four?",
-    "options_en": {
-      "A": "Nursery",
-      "B": "Kindergarten"
-    },
-    "answer_en": "C",
     "source": "Medborgerskabsprøven 2025"
   },
   {
@@ -2494,7 +2464,7 @@
     },
     "answer_en": "B",
     "source": "Medborgerskabsprøven 2022"
-  }
+  },
   {
     "question_dk": "Hvilket landområde mistede Danmark i 1658?",
     "options_dk": {
