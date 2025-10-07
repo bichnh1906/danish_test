@@ -1118,14 +1118,14 @@
       "B": "Han var filosof",
       "C": "Han var fysiker"
     },
-    "answer_dk": "A",
+    "answer_dk": "B",
     "question_en": "What is Søren Kierkegaard (1813–55) especially known for?",
     "options_en": {
       "A": "He was a painter",
       "B": "He was a philosopher",
       "C": "He was a physicist"
     },
-    "answer_en": "A",
+    "answer_en": "B",
     "source": "Medborgerskabsprøven 2025"
   },
   {
